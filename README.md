@@ -1,11 +1,11 @@
 # HTML5 & CSS의 정석
 
-- [01장 HTML 기본 다지기](ch1/README.md)
-- [02장 텍스트 관련 태그들](ch2/README.md)
-- [03장 이미지와 하이퍼링크](ch3/README.md)
-- [04장 폼 관련 태그들](ch4/README.md)
-- [05장 CSS 기초](ch5/README.md)
-- 06장 텍스트 관련 스타일
+- [01장 HTML 기본 다지기](ch01/README.md)
+- [02장 텍스트 관련 태그들](ch02/README.md)
+- [03장 이미지와 하이퍼링크](ch03/README.md)
+- [04장 폼 관련 태그들](ch04/README.md)
+- [05장 CSS 기초](ch05/README.md)
+- [06장 텍스트 관련 스타일](ch06/README.md)
 - 07장 색상과 배경을 위한 스타일
 - 08장 레이아웃을 위한 스타일
 - 09장 CSS 포지셔닝
